@@ -1,0 +1,41 @@
+"","gradient","selection","maxcls.code","indcls","best.name","Trophic.Mode","Confidence.Ranking","pval"
+"1","topo","2012ITS_o","H",0.133333333333333,"unclassified_Ascomycota",NA,NA,0.029
+"2","topo","2012ITS_o","H",0.226467822114739,"Diplodia_allocellula","Pathotroph-Saprotroph-Symbiotroph","Possible",0.04
+"3","topo","2012ITS_o","H",0.270648683365446,"Alternaria_eichhorniae","Pathotroph-Saprotroph-Symbiotroph","Possible",0.002
+"4","topo","2012ITS_o","H",0.177777777777778,"unclassified_Ceratobasidiaceae","Pathotroph-Saprotroph-Symbiotroph","Possible",0.006
+"5","topo","2012ITS_o","L",0.27906976744186,"unclassified_Ascomycota",NA,NA,0.001
+"6","topo","2012ITS_o","L",0.116279069767442,"unclassified_Coniochaetales",NA,NA,0.021
+"7","topo","2012ITS_o","L",0.116279069767442,"unclassified_Pleosporales",NA,NA,0.025
+"8","topo","2012ITS_o","L",0.13953488372093,"Chalara_sp","Pathotroph-Saprotroph-Symbiotroph","Probable",0.008
+"9","topo","2012ITS_o","L",0.325466592318037,"Lecythophora_sp_olrim15","Symbiotroph","Highly Probable",0.033
+"10","topo","2012ITS_o","L",0.195244706699063,"unclassified_Sordariomycetes",NA,NA,0.016
+"11","topo","2012ITS_o","L",0.116279069767442,"unclassified_Basidiomycota",NA,NA,0.02
+"12","topo","2012ITS_o","L",0.116279069767442,"unclassified_Agaricomycetes",NA,NA,0.027
+"13","topo","2012ITS_o","L",0.235367856834097,"unclassified_Peniophoraceae","Pathotroph-Saprotroph","Probable",0.002
+"14","topo","2012ITS_o","L",0.162790697674419,"unclassified_Sordariomycetes",NA,NA,0.007
+"15","topo","2012ITS_o","L",0.0930232558139535,"Phlebia_sp","Saprotroph","Highly Probable",0.044
+"16","topo","2012ITS_o","L",0.150172072166024,"Camillea_tinctor","Saprotroph","Probable",0.041
+"17","topo","2012ITS_o","L",0.264567546380977,"Veronaea_compacta","Pathotroph","Probable",0.008
+"18","topo","2012ITS_o","L",0.0930232558139535,"unclassified_Hypocreales","Saprotroph","Possible",0.041
+"19","topo","2012ITS_o","L",0.14323762504872,"unclassified_Herpotrichiellaceae","Pathotroph-Saprotroph","Probable",0.029
+"20","topo","2012ITS_o","L",0.162790697674419,"unclassified_Herpotrichiellaceae","Pathotroph-Saprotroph","Probable",0.006
+"21","topo","2012ITS_o","L",0.116279069767442,"unclassified_Sebacinales",NA,NA,0.021
+"22","topo","2014ITS_o","H",0.119047619047619,"unclassified_Fungi",NA,NA,0.023
+"23","topo","2014ITS_o","H",0.119047619047619,"unclassified_Sordariomycetes",NA,NA,0.031
+"24","topo","2014ITS_o","H",0.166666666666667,"Cadophora_sp","Symbiotroph","Highly Probable",0.004
+"25","topo","2014ITS_o","H",0.19047619047619,"unclassified_Xylariaceae","Pathotroph-Saprotroph-Symbiotroph","Probable",0.002
+"26","topo","2014ITS_o","H",0.0952380952380952,"unclassified_Ascomycota",NA,NA,0.045
+"27","topo","2014ITS_o","H",0.222407454902967,"Pyrenochaeta_sp","Saprotroph","Highly Probable",0.005
+"28","topo","2014ITS_o","H",0.142857142857143,"Lentinellus_subaustralis","Saprotroph","Probable",0.01
+"29","topo","2014ITS_o","H",0.153093012906097,"Alternaria_eichhorniae","Pathotroph-Saprotroph-Symbiotroph","Possible",0.034
+"30","topo","2014ITS_o","H",0.119047619047619,"Lentinellus_subaustralis","Saprotroph","Probable",0.032
+"31","topo","2014ITS_o","H",0.142857142857143,"unclassified_Sordariomycetes",NA,NA,0.014
+"32","topo","2014ITS_o","H",0.142857142857143,"Trichoderma_citrinoviride","Saprotroph","Possible",0.009
+"33","topo","2014ITS_o","H",0.0952380952380952,"unclassified_Agaricomycetes",NA,NA,0.048
+"34","topo","2014ITS_o","L",0.13953488372093,"unclassified_Coniochaetales",NA,NA,0.027
+"35","topo","2014ITS_o","L",0.27906976744186,"unclassified_Ascomycota",NA,NA,0.001
+"36","topo","2014ITS_o","L",0.162790697674419,"Haplographium_sp","Saprotroph","Probable",0.012
+"37","topo","2014ITS_o","L",0.13953488372093,"unclassified_Sordariomycetes",NA,NA,0.026
+"38","topo","2014ITS_o","L",0.229902183066658,"Lecythophora_sp_olrim15","Symbiotroph","Highly Probable",0.028
+"39","topo","2014ITS_o","L",0.162790697674419,"Coniophora_olivacea","Saprotroph","Probable",0.012
+"40","topo","2014ITS_o","L",0.116279069767442,"unclassified_Ascomycota",NA,NA,0.04
